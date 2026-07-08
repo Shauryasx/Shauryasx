@@ -71,11 +71,11 @@ Building projects, learning every day, and documenting my journey.
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/shauryasx">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shauryagupta6306@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
