@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shaurya Gupta</h1>
 
-<!--
-**Shauryasx/Shauryasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Full Stack Web Developer • AI & Data Science Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building projects, learning every day, and documenting my journey.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Learning+HTML+CSS+JavaScript;Future+React+Developer;AI+%26+Data+Science+Student" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 First-year student at **Parul University**
+- 💻 Learning **HTML, CSS, JavaScript**
+- 🚀 Goal: Become a Full Stack Developer
+- 🤖 Interested in AI & Data Science
+- 📍 Bahraich, Uttar Pradesh, India
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 Goals 2026
+
+- ✅ Master HTML & CSS
+- ✅ Learn JavaScript
+- ⏳ Learn React
+- ⏳ Build 25+ Projects
+- ⏳ Contribute to Open Source
+- ⏳ Get My First Internship
+
+---
+
+## 📫 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
