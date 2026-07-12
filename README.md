@@ -1,6 +1,6 @@
 <div align="center">
 
-![Shaurya Gupta banner]<im(https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22d3ee&text=Shaurya%20Gupta&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=54&desc=Full%20Stack%20Learner%20%7C%20AI%20%26%20Data%20Science%20Student%20%7C%20Future%20Builder&descAlign=50&descAlignY=58&v=2)
+<img width="100%" src="./assets/shaurya-gupta-banner.svg" alt="Shaurya Gupta banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+the+web%2C+one+project+at+a+time;Learning+HTML+%2B+CSS+%2B+JavaScript;Training+for+React+%2B+Full+Stack+Development;Exploring+AI%2C+Data+Science%2C+and+Open+Source" alt="Typing SVG" />
 
